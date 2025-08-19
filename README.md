@@ -1,7 +1,7 @@
 ## Hi, I'm João 🃏
 
 📚 Computer Science student @ [UNISAGRADO](https://unisagrado.edu.br)<br/>
-🧠 Data Analysis assistant @ [Sicredi](https://www.sicredi.com.br/coop/centro-oeste-paulista/)<br/>
+🧠 Professional Data Analyst & Data Scientist
 ✨ Specializing in Data Science and Computational Neuroscience<br/>
 📧 You can find more about me at my [Linkedin](https://www.linkedin.com/in/joaobruschi/)
 
