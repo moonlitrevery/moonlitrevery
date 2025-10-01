@@ -2,7 +2,7 @@
 
 📚 Computer Science student @ [UNISAGRADO](https://unisagrado.edu.br)<br/>
 🧠 Professional Data Analyst & Data Scientist<br/>
-✨ Specializing in Data Science and Computational Neuroscience<br/>
+✨ Professionaly specializing in Data Science and Computational Neuroscience | Cybersecurity enthusiast and Novice pentester<br/>
 📧 You can find more about me at my [Linkedin](https://www.linkedin.com/in/joaobruschi/)
 
 ## 🌐 Socials:
