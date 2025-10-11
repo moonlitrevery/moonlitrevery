@@ -2,8 +2,9 @@
 
 📚 Computer Science student @ [UNISAGRADO](https://unisagrado.edu.br)<br/>
 🧠 Professional Data Analyst & Data Scientist<br/>
-✨ Professionaly specializing in Data Science and Computational Neuroscience | Cybersecurity enthusiast and Novice pentester<br/>
-📧 You can find more about me at my [Linkedin](https://www.linkedin.com/in/joaobruschi/)
+👨‍💻 Professionaly specializing in Data Science<br/>
+🤓 Cybersecurity enthusiast and Novice pentester<br/>
+📧 You can find more about me at my [Linkedin](https://www.linkedin.com/in/joaobruschi/) or at my [Portfolio](https://moonlitrevery.github.io/portfolio-astro/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nyxvoiid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaobruschi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joao.bruschi@outlook.com.br) 
@@ -17,5 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=moonlitrevery&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
