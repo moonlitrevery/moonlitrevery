@@ -1,8 +1,8 @@
 ## Hi, I'm João 🃏
 
 📚 Computer Science student @ [UNISAGRADO](https://unisagrado.edu.br)<br/>
-🧠 Professional Data Analyst & Data Scientist<br/>
-👨‍💻 Professionaly specializing in Data Science<br/>
+🧠 Professional Data Analyst, certified by [DataBricks](https://customer-academy.databricks.com/learn), [Tech6](https://tech6group.com/) and [Alura](https://www.alura.com.br/formacao-data-science)<br/>
+👨‍💻 Specializing in Data Science<br/>
 🤓 Cybersecurity enthusiast and Novice pentester<br/>
 📧 You can find more about me at my [Linkedin](https://www.linkedin.com/in/joaobruschi/) or at my [Portfolio](https://moonlitrevery.github.io/portfolio-astro/)
 
