@@ -1,5 +1,5 @@
-# Hi, I'm J. 👋  
-Machine Learning Engineer (in progress) focused on building production-ready ML systems.
+# Hi, I'm João 👋  
+Machine Learning Engineer focused on building production-ready ML systems.
 
 I design and develop end-to-end machine learning pipelines — from data processing and feature engineering to model deployment and monitoring.
 
