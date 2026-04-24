@@ -1,38 +1,33 @@
 # Hi, I'm João 👋  
 Machine Learning Engineer focused on building production-ready ML systems.
 
-I design and develop end-to-end machine learning pipelines — from data processing and feature engineering to model deployment and monitoring.
+I design and develop end-to-end machine learning pipelines: from data processing and feature engineering to model deployment and monitoring.
 
 ---
 
 ## 🚀 What I do
-- Build scalable ML pipelines (training + inference)
-- Develop backend systems for ML (APIs & services)
-- Work with MLOps concepts (deployment, monitoring, reliability)
-- Turn data into production-ready systems
+
+I build data systems that go beyond analysis, focusing on scalable pipelines, APIs, and production-ready ML solutions. My background in BI and analytics supports my work designing end-to-end workflows: from data processing to model deployment and monitoring.
 
 ---
 
 ## 🧠 Tech Stack
 **Languages & Core**
-- Python, SQL, JavaScript
+- Python, SQL, C++/C, JavaScript
 
 **ML & Data**
-- scikit-learn, PyTorch, Pandas, NumPy
+- scikit-learn, PyTorch, Pandas, NumPy, MLFlow, NLP, NNs, Model Evaluation, Feature Engineering
 
 **Backend & MLOps**
-- FastAPI, Node.js, Docker
+- FastAPI, Node.js, Docker, Experiment tracking, Monitoring, Git, Pipelines
 
 **Data & Infra**
-- MySQL, PostgreSQL, Snowflake
+- MySQL, PostgreSQL, Databricks, PowerBI, DAX, Data Modeling, ETL
 
 ---
 
 ## 🧩 System Design Mindset
-I focus on building ML systems that are:
-- Scalable
-- Maintainable
-- Production-ready
+Currently, I'm focused on developing real-world ML systems with MLOps practices, including experiment tracking, reproducibility, and data drift awareness.
 
 ---
 
