@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40" role="img" aria-label="">
+  <defs>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9d4edd" stop-opacity="0"/>
+      <stop offset="1" stop-color="#9d4edd" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9d4edd" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#9d4edd" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#9d4edd" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#9d4edd" stop-opacity="0"/>
+    </radialGradient>
+
+    <mask id="mCres"><circle r="9" fill="#fff"/><circle cx="-5" r="8" fill="#000"/></mask>
+    <mask id="mHalf"><circle r="9" fill="#fff"/><rect x="-10" y="-10" width="10" height="20" fill="#000"/></mask>
+    <mask id="mGib"><circle r="9" fill="#fff"/><circle cx="-12" r="8" fill="#000"/></mask>
+
+    <g id="pNew">
+      <circle r="9" fill="#240046" stroke="#5a189a" stroke-width="1"/>
+    </g>
+    <g id="pCres">
+      <circle r="9" fill="#240046" stroke="#5a189a" stroke-width="1"/>
+      <circle r="9" fill="#e0aaff" mask="url(#mCres)"/>
+    </g>
+    <g id="pHalf">
+      <circle r="9" fill="#240046" stroke="#5a189a" stroke-width="1"/>
+      <circle r="9" fill="#e0aaff" mask="url(#mHalf)"/>
+    </g>
+    <g id="pGib">
+      <circle r="9" fill="#240046" stroke="#5a189a" stroke-width="1"/>
+      <circle r="9" fill="#e0aaff" mask="url(#mGib)"/>
+    </g>
+    <g id="pFull">
+      <circle r="9" fill="#e0aaff"/>
+    </g>
+  </defs>
+
+  <rect x="40" y="19.5" width="250" height="1" fill="url(#fadeL)"/>
+  <rect x="610" y="19.5" width="250" height="1" fill="url(#fadeR)"/>
+
+  <!-- waxing -->
+  <use href="#pNew"  transform="translate(314 20)"/>
+  <use href="#pCres" transform="translate(348 20)"/>
+  <use href="#pHalf" transform="translate(382 20)"/>
+  <use href="#pGib"  transform="translate(416 20)"/>
+
+  <!-- full -->
+  <circle cx="450" cy="20" r="18" fill="url(#halo)"/>
+  <use href="#pFull" transform="translate(450 20)"/>
+
+  <!-- waning (mirrored) -->
+  <use href="#pGib"  transform="translate(484 20) scale(-1 1)"/>
+  <use href="#pHalf" transform="translate(518 20) scale(-1 1)"/>
+  <use href="#pCres" transform="translate(552 20) scale(-1 1)"/>
+  <use href="#pNew"  transform="translate(586 20) scale(-1 1)"/>
+</svg>
