@@ -14,7 +14,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### ~/stack $ ls
+### ~/stack $ pacman -Qe
 
 **languages**<br>
 <img src="https://skillicons.dev/icons?i=py,cpp,c,js&theme=dark" />
@@ -35,7 +35,7 @@
 </td>
 <td valign="top" width="50%">
 
-### ~/projects $ ls -t
+### ~/projects $ paru -Qm
 
 **[DodocLens](https://github.com/moonlitrevery/dodoclens)**<br>
 document intelligence with local AI (OCR + semantic search) for PDFs and images.
@@ -51,6 +51,15 @@ developed a CRNN model that could solve image challenges.
 </table>
 
 <img src="assets/divider.svg" alt="" width="100%" />
+
+### ~/stats $ fastfetch
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=moonlitrevery&show_icons=true&hide_border=false&bg_color=10002b&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd&border_color=3c096c" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlitrevery&layout=compact&bg_color=10002b&title_color=c77dff&text_color=e0aaff&border_color=3c096c" />
+</div>
+
+<br>
 
 ### ~/connect $ ping
 
