@@ -5,7 +5,7 @@
 <img src="assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="Terminal session: whoami returns joao, machine learning engineer. Builds data systems that go beyond analysis: scalable pipelines, APIs and production-ready ML, with a background in BI and analytics, focused on end-to-end workflows and MLOps practices like experiment tracking, reproducibility and data drift awareness." width="100%" />
+  <img src="assets/terminal.svg" alt="Terminal session: whoami returns joao, machine learning engineer. Fascinated by how machines learn and how far neural networks go in resembling a brain. Builds production ML systems that take the tedious work off people's plates so humans keep the creative part. Now: MLOps practices like experiment tracking, reproducibility and data drift awareness." width="100%" />
 </div>
 
 <br>
