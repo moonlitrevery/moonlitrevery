@@ -47,7 +47,7 @@ production-ready ML system for churn prediction with monitoring, explainability,
 word counter for SAE Brasil AeroDesign technical reports. Faithful modern port of PyAeroCounter.
 
 **[FIEL](https://github.com/moonlitrevery/FIEL)**<br>
-FIEL - Fraud Insight & Explicabilidade LLM
+XGBoost fraud explainability using SHAP, RAG, and LLMs, with automated explanation faithfulness verification.
 
 **[LyricsClassifier](https://github.com/moonlitrevery/LyricsClassifier)**<br>
 complete NLP pipeline for classifying song lyrics by genre, mood, or theme. Trained using TF-IDF + Naive Bayes as a baseline.
