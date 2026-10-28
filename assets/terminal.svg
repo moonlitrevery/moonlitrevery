@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" role="img" aria-label="Terminal session: whoami returns joao, machine learning engineer. about.md and now.md describe building production-ready ML systems with MLOps practices.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" role="img" aria-label="Terminal session: whoami returns joao, machine learning engineer. about.md says the author is fascinated by how machines learn and builds production ML systems so humans keep the creative part. now.md mentions MLOps practices.">
   <title>terminal</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -104,10 +104,10 @@
     </g>
 
     <text class="l" x="38" y="148" style="animation-delay:1.5s"><tspan class="p">$ </tspan><tspan class="c">cat about.md</tspan></text>
-    <text class="l o" x="38" y="170" style="animation-delay:2s">Builds data systems that go beyond analysis: scalable pipelines, APIs and</text>
-    <text class="l o" x="38" y="192" style="animation-delay:2.15s">production-ready ML. Background in BI and analytics, now focused on</text>
-    <text class="l o" x="38" y="214" style="animation-delay:2.3s">end-to-end workflows - data processing, feature engineering, deployment</text>
-    <text class="l o" x="38" y="236" style="animation-delay:2.45s">and monitoring.</text>
+    <text class="l o" x="38" y="170" style="animation-delay:2s">Fascinated by how machines learn: how neural networks work, where</text>
+    <text class="l o" x="38" y="192" style="animation-delay:2.15s">their limits are and how far they go in resembling a brain. I build</text>
+    <text class="l o" x="38" y="214" style="animation-delay:2.3s">production ML systems that take the tedious work off people's plates,</text>
+    <text class="l o" x="38" y="236" style="animation-delay:2.45s">so humans keep the fun, creative part.</text>
 
     <text class="l" x="38" y="280" style="animation-delay:3.2s"><tspan class="p">$ </tspan><tspan class="c">cat now.md</tspan></text>
     <text class="l o" x="38" y="302" style="animation-delay:3.7s">Real-world ML systems with MLOps practices: experiment tracking,</text>

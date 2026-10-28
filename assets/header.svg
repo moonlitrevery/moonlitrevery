@@ -108,6 +108,6 @@
 
   <!-- rotating tagline -->
   <text class="mono tag first" x="60" y="222" style="animation-delay:0s">// production-ready ML systems</text>
-  <text class="mono tag" x="60" y="222" style="animation-delay:4s">// pipelines from raw data to monitoring</text>
+  <text class="mono tag" x="60" y="222" style="animation-delay:4s">// fascinated by how machines learn</text>
   <text class="mono tag" x="60" y="222" style="animation-delay:8s">// hobbyst on a ton of stuff</text>
 </svg>
