@@ -43,6 +43,15 @@ document intelligence with local AI (OCR + semantic search) for PDFs and images.
 **[Churn pipeline](https://github.com/moonlitrevery/mlechurn)**<br>
 production-ready ML system for churn prediction with monitoring, explainability, and deployment.
 
+**[Polyphemus](https://github.com/moonlitrevery/polyphemus)**<br>
+word counter for SAE Brasil AeroDesign technical reports. Faithful modern port of PyAeroCounter.
+
+**[FIEL](https://github.com/moonlitrevery/FIEL)**<br>
+FIEL - Fraud Insight & Explicabilidade LLM
+
+**[DodocLens](https://github.com/moonlitrevery/LyricsClassifier)**<br>
+complete NLP pipeline for classifying song lyrics by genre, mood, or theme. Trained using TF-IDF + Naive Bayes as a baseline.
+
 **CRNN image challenge engine** *(private)*<br>
 developed a CRNN model that could solve image challenges.
 
