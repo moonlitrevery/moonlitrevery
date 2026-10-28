@@ -49,7 +49,7 @@ word counter for SAE Brasil AeroDesign technical reports. Faithful modern port o
 **[FIEL](https://github.com/moonlitrevery/FIEL)**<br>
 FIEL - Fraud Insight & Explicabilidade LLM
 
-**[DodocLens](https://github.com/moonlitrevery/LyricsClassifier)**<br>
+**[LyricsClassifier](https://github.com/moonlitrevery/LyricsClassifier)**<br>
 complete NLP pipeline for classifying song lyrics by genre, mood, or theme. Trained using TF-IDF + Naive Bayes as a baseline.
 
 **CRNN image challenge engine** *(private)*<br>
